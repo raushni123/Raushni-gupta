@@ -3,3 +3,7 @@ This is my first Project on Github.
 I Created a Python file named hello.py.
 This Project is for learning purpose
 
+This project contains:
+- hello.py
+- sum.py
+- calculator.py
